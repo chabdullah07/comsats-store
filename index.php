@@ -1,1 +1,1 @@
-<?php include once("./comsats-store.html")?>
+<?php include_once("./comsats-store.html"); ?>
